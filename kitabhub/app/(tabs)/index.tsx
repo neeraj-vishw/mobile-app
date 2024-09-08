@@ -107,17 +107,17 @@ const styles = StyleSheet.create({
   recommendedSection: {
     flex: 1,
     flexDirection: "row",
-    flexWrap: "wrap"
+    flexWrap: "wrap",
   },
   recItems: {
     borderWidth: 1,
     borderColor: Colors.light.borderPrimary,
     borderRadius: 10,
-    width: width * 0.4,
+    width: width * 0.42,
     height: 200,
   },
   cardContainer: {
-    width: width * 0.4,
+    width: width * 0.42,
     height: 200,
     marginHorizontal: 10,
     marginVertical: 10,
